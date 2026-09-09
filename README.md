@@ -34,8 +34,7 @@ The main goal of this project is to practice backend development concepts, REST 
 src/main/java/com.students.std/
 
 * Entity
-
-  * StudentEntry.java
+* StudentEntry.java
 * Repository
 * Services
 * Controller
